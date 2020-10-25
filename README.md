@@ -1,6 +1,6 @@
-<h1> Hi there!  <img src="https://github.com/abbasgulu/abbasgulu/blob/main/assent/wave.gif" width="30px"></h1>
+<h1> Hi there!  <img src="https://github.com/lechiDzhalilov/lechiDzhalilov/blob/main/doc/wave.gif" width="30px"></h1>
 
-<p> <img align="right" src="https://github.com/abbasgulu/abbasgulu/blob/main/assent/code.gif" width="360" style="max-width:100%;"> </p>
+<p> <img align="right" src="https://github.com/lechiDzhalilov/lechiDzhalilov/blob/main/doc/code.gif" width="360" style="max-width:100%;"> </p>
 
 <p> I am a Mathematical Engineering student at Yıldız Technical University. I have been dealing with more than 3 years of software. I developed various mobile app. </p>
 
