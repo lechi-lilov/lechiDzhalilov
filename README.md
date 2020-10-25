@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**lechiDzhalilov/lechiDzhalilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mathematical Engineering student at Yıldız Technical University. I have been dealing with more than 3 years of software. I developed various mobile app.
 
 Here are some ideas to get you started:
 
