@@ -2,7 +2,7 @@
 
 <p> <img align="right" src="https://github.com/abbasgulu/abbasgulu/blob/main/assent/code.gif" width="360" style="max-width:100%;"> </p>
 
-<p> Text. </p>
+<p> I am a Mathematical Engineering student at Yıldız Technical University. I have been dealing with more than 3 years of software. I developed various mobile app. </p>
 
 <ul>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Data Science</li>
