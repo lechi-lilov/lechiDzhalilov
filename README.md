@@ -11,3 +11,4 @@
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/lechi-dzhalilov-3a07b3186/" rel="nofollow">LinkedIn</a></li>
 </ul>
 
+![Lechi's github stats](https://github-readme-stats.vercel.app/api?username=lechiDzhalilov&show_icons=true&theme=white)
