@@ -2,7 +2,7 @@
 
 <p> <img align="right" src="https://github.com/lechiDzhalilov/lechiDzhalilov/blob/main/doc/code.gif" width="360" style="max-width:100%;"> </p>
 
-<p>I am a Mathematical Engineering student at Yıldız Technical University. I am interested about Data Science , Machine Learning, Deep Learning. I enjoy learning, generating new ideas and solving problems.  </p>
+<p>I am a Mathematical Engineering student at Yıldız Technical University. I am interested in Data Science , Machine Learning, Deep Learning. I enjoy learning, generating new ideas and solving problems.  </p>
 
 <ul>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Data Science</li>
